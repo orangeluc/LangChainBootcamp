@@ -5,3 +5,5 @@ faiss-cpu
 beautifulsoup4
 wikipedia
 ipykernel
+arxiv
+pymupdf
